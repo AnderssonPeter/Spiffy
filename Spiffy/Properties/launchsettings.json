@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Spiffy (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Spiffy (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
